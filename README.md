@@ -7,6 +7,7 @@
 <p>This Repository shows one posible way of using nonces in object oriented way with PHP</p>
 
 <h2> Instalation </h2>
+<p><b>First thing:</b> If you are using Windows for developing WP themes and plugins i would really suggest you to use Vagrant/vccw (Development environment for Wordpress) <a href="http://vccw.cc/" target="_blank">VCCW</a>. It will really help you on the general process and specially with phpunit testing process. </p>
 
 <p> Download, clone or use composer to install the directory to your WordPress theme<p>
   
