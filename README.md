@@ -9,13 +9,7 @@
 <h2> Instalation </h2>
 <p><b>First thing:</b> If you are using Windows for developing WP themes and plugins i would really suggest you to use Vagrant/vccw (Development environment for Wordpress) <a href="http://vccw.cc/" target="_blank">VCCW</a>. It will really help you on the general process and specially with phpunit testing process. </p>
 
-<p> Download, clone or use composer to install the directory to your WordPress theme<p>
-  
-  <span>Insert the class file into function.php file</span>
-  
-```PHP
-include( TEMPLATEPATH . '/nonce_object/src/ax_wp_nonce_class.php');
-```
+<p> Download, clone or use composer to install the plugin and test it using the bellow codes:<p>
 
 <h2>Create Field nonce</h2>
 
